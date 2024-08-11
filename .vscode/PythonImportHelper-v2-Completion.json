@@ -1,0 +1,2248 @@
+[
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sysconfig",
+        "description": "sysconfig",
+        "detail": "sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "scrapy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "signals",
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "isExtraImport": true,
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "signals",
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "isExtraImport": true,
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "is_item",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "is_item",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ImagesPipeline",
+        "importPath": "scrapy.pipelines.images",
+        "description": "scrapy.pipelines.images",
+        "isExtraImport": true,
+        "detail": "scrapy.pipelines.images",
+        "documentation": {}
+    },
+    {
+        "label": "DropItem",
+        "importPath": "scrapy.exceptions",
+        "description": "scrapy.exceptions",
+        "isExtraImport": true,
+        "detail": "scrapy.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "add_gps_columns",
+        "importPath": "GPSData",
+        "description": "GPSData",
+        "isExtraImport": true,
+        "detail": "GPSData",
+        "documentation": {}
+    },
+    {
+        "label": "count_DNF",
+        "importPath": "GPSData",
+        "description": "GPSData",
+        "isExtraImport": true,
+        "detail": "GPSData",
+        "documentation": {}
+    },
+    {
+        "label": "count_entries",
+        "importPath": "GPSData",
+        "description": "GPSData",
+        "isExtraImport": true,
+        "detail": "GPSData",
+        "documentation": {}
+    },
+    {
+        "label": "count_runners",
+        "importPath": "GPSData",
+        "description": "GPSData",
+        "isExtraImport": true,
+        "detail": "GPSData",
+        "documentation": {}
+    },
+    {
+        "label": "replace_underscore_headers",
+        "importPath": "GPSData",
+        "description": "GPSData",
+        "isExtraImport": true,
+        "detail": "GPSData",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dataset",
+        "description": "dataset",
+        "detail": "dataset",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Marshmallow",
+        "importPath": "flask_marshmallow",
+        "description": "flask_marshmallow",
+        "isExtraImport": true,
+        "detail": "flask_marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Marshmallow",
+        "importPath": "flask_marshmallow",
+        "description": "flask_marshmallow",
+        "isExtraImport": true,
+        "detail": "flask_marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "Marshmallow",
+        "importPath": "flask_marshmallow",
+        "description": "flask_marshmallow",
+        "isExtraImport": true,
+        "detail": "flask_marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "MethodView",
+        "importPath": "flask.views",
+        "description": "flask.views",
+        "isExtraImport": true,
+        "detail": "flask.views",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "django_heroku",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_heroku",
+        "description": "django_heroku",
+        "detail": "django_heroku",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "hello.views",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hello.views",
+        "description": "hello.views",
+        "detail": "hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AnonymousUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFactory",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass\n        tee_f.write(what)",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api\n    import win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror == 5:  # access denied - user not admin.\n                raise",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.machinery\n    import importlib.util\n    suffix = \"_d\" if \"_d.pyd\" in importlib.machinery.EXTENSION_SUFFIXES else \"\"\n    filename = \"%s%d%d%s.dll\" % (\n        modname,\n        sys.version_info[0],\n        sys.version_info[1],\n        suffix,",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n            if verbose:\n                print(\"-> %s\\\\%s[%s]=%r\" % (root_key_name, key_name, value_name, value))\n        finally:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "UnsetPyKeyVal",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def UnsetPyKeyVal(key_name, value_name, delete_key=False):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.OpenKey(root_key, key_name, 0, winreg.KEY_SET_VALUE)\n        try:\n            winreg.DeleteValue(my_key, value_name)\n            if verbose:\n                print(\"-> DELETE %s\\\\%s[%s]\" % (root_key_name, key_name, value_name))\n        finally:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register=True):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags[\"quiet\"] = 1\n    for module, klass_name in com_modules:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterHelpFile",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterHelpFile(register=True, lib_dir=None):\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    if register:\n        # Register the .chm help file.\n        chm_file = os.path.join(lib_dir, \"PyWin32.chm\")\n        if os.path.isfile(chm_file):\n            # This isn't recursive, so if 'Help' doesn't exist, we croak\n            SetPyKeyVal(\"Help\", None, None)\n            SetPyKeyVal(\"Help\\\\Pythonwin Reference\", None, chm_file)",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True, lib_dir=None):\n    \"\"\"Add (or remove) Pythonwin to context menu for python scripts.\n    ??? Should probably also add Edit command for pys files also.\n    Also need to remove these keys on uninstall, but there's no function\n        like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    if lib_dir is None:\n        lib_dir = sysconfig.get_paths()[\"platlib\"]\n    classes_root = get_root_hkey()",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey() == winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api  # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0, shellcon.CSIDL_SYSTEM)",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api\n    import win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(\"Failed to unregister COM objects: %s\" % (why,))\n    try:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError('Path \"{}\" does not exist!'.format(location))\n    return location\ndef main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "def main():\n    import argparse\n    parser = argparse.ArgumentParser(\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install\n    If you installed pywin32 via a .exe installer, this should be run\n    automatically after installation, but if it fails you can run it again.\n    If you installed pywin32 via PIP, you almost certainly need to run this to",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), \"pywin32_postinstall.log\"), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\", \"Interpreter\"),\n    (\"win32com.servers.dictionary\", \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\", \"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_postinstall",
+        "description": "envjs.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + sys.winver\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True\nexcept NameError:",
+        "detail": "envjs.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()\n    result = subprocess.run(cmd, check=False, cwd=dirname)\n    print(\"*** Test script '%s' exited with %s\" % (script, result.returncode))\n    sys.stdout.flush()\n    if result.returncode:",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, extras):\n    for maybe in possible_locations:\n        if os.path.isfile(maybe):\n            run_test(maybe, extras)\n            break\n    else:\n        raise RuntimeError(\n            \"Failed to locate a test script in one of %s\" % possible_locations\n        )\ndef main():",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "def main():\n    import argparse\n    code_directories = [this_dir] + site_packages\n    parser = argparse.ArgumentParser(\n        description=\"A script to trigger tests in all subprojects of PyWin32.\"\n    )\n    parser.add_argument(\n        \"-no-user-interaction\",\n        default=False,\n        action=\"store_true\",",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [\n    site.getusersitepackages(),\n] + site.getsitepackages()\nfailures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "failures",
+        "kind": 5,
+        "importPath": "envjs.Scripts.pywin32_testall",
+        "description": "envjs.Scripts.pywin32_testall",
+        "peekOfCode": "failures = []\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error, but we don't\n# abort immediately - we run as many tests as we can.\ndef run_test(script, cmdline_extras):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_extras\n    print(\"--- Running '%s' ---\" % script)\n    sys.stdout.flush()",
+        "detail": "envjs.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerItem",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "class NWinnerItem(scrapy.Item):\n    name = scrapy.Field()\n    link = scrapy.Field()\n    year = scrapy.Field()\n    category = scrapy.Field()\n    country = scrapy.Field()\n    gender = scrapy.Field()\n    born_in = scrapy.Field()\n    date_of_birth = scrapy.Field()\n    date_of_death = scrapy.Field()",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerSpider",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "class NWinnerSpider(scrapy.Spider):\n    \"\"\" This spider uses Wikipedia's  Nobel laureates list to generate requests which scrape the winners' pages for basic biographical data \"\"\"\n    name = 'nwinners_full'\n    allowed_domains = ['en.wikipedia.org']\n    start_urls = [\n        \"http://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country\"\n    ]\n    def parse(self, response):\n        filename = response.url.split('/')[-1]\n        h3s = response.xpath('//h3')",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "get_persondata",
+        "kind": 2,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "def get_persondata(table, item):\n    fields = ['Date of birth', 'Place of birth',\n              'Date of death', 'Place of death']\n    for tr in table.xpath('tr'):\n        label = tr.xpath('td[@class=\"persondata-label\"]/text()').extract()\n        if label and label[0] in fields:\n            text = ' '.join(\n                tr.xpath('td[not(@class)]/descendant-or-self::text()').extract())\n            print(text)\n            item[label[0].lower().replace(' ', '_')] = text",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "guess_gender",
+        "kind": 2,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "def guess_gender(text, threshold=0):\n    import re\n    he = len(list(re.finditer(' he ', text)))\n    she = len(list(re.finditer(' she ', text)))\n    diff = she - he\n    print('she %d, he %d, diff %d' % (she, he, diff))\n    if diff > threshold:\n        return 'female'\n    elif diff < -threshold:\n        return 'male'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "process_winner_li",
+        "kind": 2,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "def process_winner_li(w, country=None):\n    \"\"\"\n    Process a winner's <li> tag, adding country of birth or nationality,\n    as applicable.\n    \"\"\"\n    wdata = {}\n    # get the href link-adress from the <a> tag\n    wdata['link'] = BASE_URL + w.xpath('a/@href').extract()[0]\n    text = ' '.join(w.xpath('descendant-or-self::text()').extract())\n    # we use the comma-delimited text-elements, stripping whitespace from",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "peekOfCode": "BASE_URL = 'http://en.wikipedia.org'\nclass NWinnerItem(scrapy.Item):\n    name = scrapy.Field()\n    link = scrapy.Field()\n    year = scrapy.Field()\n    category = scrapy.Field()\n    country = scrapy.Field()\n    gender = scrapy.Field()\n    born_in = scrapy.Field()\n    date_of_birth = scrapy.Field()",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_full_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerItem",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "peekOfCode": "class NWinnerItem(scrapy.Item):\n    country = scrapy.Field()\n    name = scrapy.Field()\n    link_text = scrapy.Field()\nclass NWinnerSpider(scrapy.Spider):\n    name = 'nwinners_list'\n    allowed_domains = ['en.wikipedia.org']\n    start_urls = [\n        \"http://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country\"\n    ]",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerSpider",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "peekOfCode": "class NWinnerSpider(scrapy.Spider):\n    name = 'nwinners_list'\n    allowed_domains = ['en.wikipedia.org']\n    start_urls = [\n        \"http://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country\"\n    ]\n    def parse(self, response):\n        h3s = response.xpath('//h3')\n        items = []\n        for h3 in h3s:",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_list_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerItemBio",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "peekOfCode": "class NWinnerItemBio(scrapy.Item):\n    link = scrapy.Field()\n    name = scrapy.Field()\n    mini_bio = scrapy.Field()\n    image_urls = scrapy.Field()\n    bio_image = scrapy.Field()\n    images = scrapy.Field()\nclass NWinnerSpiderBio(scrapy.Spider):\n    \"\"\" Scrapes the Nobel prize biography pages for portrait images and a biographical snippet \"\"\"\n    name = 'nwinners_minibio'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NWinnerSpiderBio",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "peekOfCode": "class NWinnerSpiderBio(scrapy.Spider):\n    \"\"\" Scrapes the Nobel prize biography pages for portrait images and a biographical snippet \"\"\"\n    name = 'nwinners_minibio'\n    allowed_domains = ['en.wikipedia.org']\n    start_urls = [\n        \"http://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_country\"\n    ]\n    # For Scrapy v 1.0+, custom_settings can override the item pipelines in settings\n    custom_settings = {\n        'ITEM_PIPELINES': {'nobel_winners.pipelines.NobelImagesPipeline': 1},",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "peekOfCode": "BASE_URL = 'http://en.wikipedia.org'\nclass NWinnerItemBio(scrapy.Item):\n    link = scrapy.Field()\n    name = scrapy.Field()\n    mini_bio = scrapy.Field()\n    image_urls = scrapy.Field()\n    bio_image = scrapy.Field()\n    images = scrapy.Field()\nclass NWinnerSpiderBio(scrapy.Spider):\n    \"\"\" Scrapes the Nobel prize biography pages for portrait images and a biographical snippet \"\"\"",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.spiders.nwinners_minibio_spider",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersItem",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.items",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.items",
+        "peekOfCode": "class NobelWinnersItem(scrapy.Item):\n    # define the fields for your item here like:\n    # name = scrapy.Field()\n    pass",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.items",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersSpiderMiddleware",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "peekOfCode": "class NobelWinnersSpiderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the spider middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersDownloaderMiddleware",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "peekOfCode": "class NobelWinnersDownloaderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the downloader middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersPipeline",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "peekOfCode": "class NobelWinnersPipeline:\n    def process_item(self, item, spider):\n        return item\nclass DropNonPersons(object):\n    \"\"\" Remove non-person winners \"\"\"\n    def process_item(self, item, spider):\n        if not item['gender']:\n            raise DropItem(\"No gender for %s\" % item['name'])\n        return item\nclass NobelImagesPipeline(ImagesPipeline):",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "DropNonPersons",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "peekOfCode": "class DropNonPersons(object):\n    \"\"\" Remove non-person winners \"\"\"\n    def process_item(self, item, spider):\n        if not item['gender']:\n            raise DropItem(\"No gender for %s\" % item['name'])\n        return item\nclass NobelImagesPipeline(ImagesPipeline):\n    def get_media_requests(self, item, info):\n        for image_url in item['image_urls']:\n            yield scrapy.Request(image_url)",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "NobelImagesPipeline",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "peekOfCode": "class NobelImagesPipeline(ImagesPipeline):\n    def get_media_requests(self, item, info):\n        for image_url in item['image_urls']:\n            yield scrapy.Request(image_url)\n    def item_completed(self, results, item, info):\n        image_paths = [img'path'] for ok, img in results if ok]\n        if not image_paths:\n            raise DropItem(\"Item contains no images\")\n        adapter = ItemAdapter(item)\n        adapter['bio_image'] = image_paths[0]",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_NAME",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "BOT_NAME = 'nobel_winners'\nSPIDER_MODULES = ['nobel_winners.spiders']\nNEWSPIDER_MODULE = 'nobel_winners.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SPIDER_MODULES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "SPIDER_MODULES = ['nobel_winners.spiders']\nNEWSPIDER_MODULE = 'nobel_winners.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "NEWSPIDER_MODULE",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "NEWSPIDER_MODULE = 'nobel_winners.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#USER_AGENT",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#USER_AGENT = 'nobel_winners (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROBOTSTXT_OBEY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "ROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DOWNLOAD_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_DOMAIN",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_IP",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#COOKIES_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#TELNETCONSOLE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    'nobel_winners.middlewares.NobelWinnersSpiderMiddleware': 543,",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DEFAULT_REQUEST_HEADERS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    'nobel_winners.middlewares.NobelWinnersSpiderMiddleware': 543,\n#}\n# Enable or disable downloader middlewares",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#SPIDER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#SPIDER_MIDDLEWARES = {\n#    'nobel_winners.middlewares.NobelWinnersSpiderMiddleware': 543,\n#}\n# Enable or disable downloader middlewares\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html\n#DOWNLOADER_MIDDLEWARES = {\n#    'nobel_winners.middlewares.NobelWinnersDownloaderMiddleware': 543,\n#}\n# Enable or disable extensions\n# See https://docs.scrapy.org/en/latest/topics/extensions.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DOWNLOADER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#DOWNLOADER_MIDDLEWARES = {\n#    'nobel_winners.middlewares.NobelWinnersDownloaderMiddleware': 543,\n#}\n# Enable or disable extensions\n# See https://docs.scrapy.org/en/latest/topics/extensions.html\n#EXTENSIONS = {\n#    'scrapy.extensions.telnet.TelnetConsole': None,\n#}\n# Configure item pipelines\n# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#EXTENSIONS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#EXTENSIONS = {\n#    'scrapy.extensions.telnet.TelnetConsole': None,\n#}\n# Configure item pipelines\n# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html\nITEM_PIPELINES = {\n# uncomment the following for the nwinners_minibio spider:\n#    'nobel_winners.pipelines.NobleImagesPipeline': 300\n}\nIMAGES_STORE = 'images'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ITEM_PIPELINES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "ITEM_PIPELINES = {\n# uncomment the following for the nwinners_minibio spider:\n#    'nobel_winners.pipelines.NobleImagesPipeline': 300\n}\nIMAGES_STORE = 'images'\nMEDIA_ALLOW_REDIRECTS = True\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html\n#AUTOTHROTTLE_ENABLED = True\n# The initial download delay",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGES_STORE",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "IMAGES_STORE = 'images'\nMEDIA_ALLOW_REDIRECTS = True\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html\n#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ALLOW_REDIRECTS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "MEDIA_ALLOW_REDIRECTS = True\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html\n#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_START_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_MAX_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\nHTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_TARGET_CONCURRENCY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\nHTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_DEBUG",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\nHTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPCACHE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_EXPIRATION_SECS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_DIR",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_IGNORE_HTTP_CODES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_STORAGE",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "peekOfCode": "#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners.nobel_winners.settings",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersTestItem",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.items",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.items",
+        "peekOfCode": "class NobelWinnersTestItem(scrapy.Item):\n    # define the fields for your item here like:\n    # name = scrapy.Field()\n    pass",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.items",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersTestSpiderMiddleware",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "peekOfCode": "class NobelWinnersTestSpiderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the spider middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersTestDownloaderMiddleware",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "peekOfCode": "class NobelWinnersTestDownloaderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the downloader middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "NobelWinnersTestPipeline",
+        "kind": 6,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.pipelines",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.pipelines",
+        "peekOfCode": "class NobelWinnersTestPipeline:\n    def process_item(self, item, spider):\n        return item",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "BOT_NAME",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "BOT_NAME = 'nobel_winners_test'\nSPIDER_MODULES = ['nobel_winners_test.spiders']\nNEWSPIDER_MODULE = 'nobel_winners_test.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners_test (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SPIDER_MODULES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "SPIDER_MODULES = ['nobel_winners_test.spiders']\nNEWSPIDER_MODULE = 'nobel_winners_test.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners_test (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "NEWSPIDER_MODULE",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "NEWSPIDER_MODULE = 'nobel_winners_test.spiders'\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n#USER_AGENT = 'nobel_winners_test (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#USER_AGENT",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#USER_AGENT = 'nobel_winners_test (+http://www.yourdomain.com)'\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROBOTSTXT_OBEY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "ROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DOWNLOAD_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_DOMAIN",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_IP",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#COOKIES_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#TELNETCONSOLE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    'nobel_winners_test.middlewares.NobelWinnersTestSpiderMiddleware': 543,",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DEFAULT_REQUEST_HEADERS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#DEFAULT_REQUEST_HEADERS = {\n#   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',\n#   'Accept-Language': 'en',\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    'nobel_winners_test.middlewares.NobelWinnersTestSpiderMiddleware': 543,\n#}\n# Enable or disable downloader middlewares",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#SPIDER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#SPIDER_MIDDLEWARES = {\n#    'nobel_winners_test.middlewares.NobelWinnersTestSpiderMiddleware': 543,\n#}\n# Enable or disable downloader middlewares\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html\n#DOWNLOADER_MIDDLEWARES = {\n#    'nobel_winners_test.middlewares.NobelWinnersTestDownloaderMiddleware': 543,\n#}\n# Enable or disable extensions\n# See https://docs.scrapy.org/en/latest/topics/extensions.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DOWNLOADER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#DOWNLOADER_MIDDLEWARES = {\n#    'nobel_winners_test.middlewares.NobelWinnersTestDownloaderMiddleware': 543,\n#}\n# Enable or disable extensions\n# See https://docs.scrapy.org/en/latest/topics/extensions.html\n#EXTENSIONS = {\n#    'scrapy.extensions.telnet.TelnetConsole': None,\n#}\n# Configure item pipelines\n# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#EXTENSIONS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#EXTENSIONS = {\n#    'scrapy.extensions.telnet.TelnetConsole': None,\n#}\n# Configure item pipelines\n# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html\n#ITEM_PIPELINES = {\n#    'nobel_winners_test.pipelines.NobelWinnersTestPipeline': 300,\n#}\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#ITEM_PIPELINES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#ITEM_PIPELINES = {\n#    'nobel_winners_test.pipelines.NobelWinnersTestPipeline': 300,\n#}\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html\n#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_START_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_MAX_DELAY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_TARGET_CONCURRENCY",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_DEBUG",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_ENABLED",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_EXPIRATION_SECS",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_DIR",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#HTTPCACHE_DIR = 'httpcache'\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_IGNORE_HTTP_CODES",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_STORAGE",
+        "kind": 5,
+        "importPath": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "description": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "peekOfCode": "#HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'",
+        "detail": "Part_2_Getting_Your_Data.Ch.06_Scrapy.nobel_winners_test.nobel_winners_test.settings",
+        "documentation": {}
+    },
+    {
+        "label": "get_historical_data",
+        "kind": 2,
+        "importPath": "Part_2_Getting_Your_Data.data.load_bets",
+        "description": "Part_2_Getting_Your_Data.data.load_bets",
+        "peekOfCode": "def get_historical_data():\n    historical_filename = \"gpsbethistory.csv\"\n    print(f\"Checking if file {historical_filename} exists...\")\n    if os.path.exists(historical_filename):\n        try:\n            print(f\"File {historical_filename} found. Attempting to read...\")\n            historical_data = pd.read_csv(historical_filename)\n            print(f\"File {historical_filename} read successfully.\")\n            return historical_data\n        except Exception as e:",
+        "detail": "Part_2_Getting_Your_Data.data.load_bets",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "peekOfCode": "def index():\n    return 'Hello World!'\n    # return render_template('index.html', message='Hello World!')\n# standard Python test for the main program, run from command-line \nif __name__=='__main__':\n    #app.run(port=8000, debug=True)\n    app.run(port=8000)",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "peekOfCode": "app = Flask(__name__)\n# / route and its view, index.html\n@app.route('/')\ndef index():\n    return 'Hello World!'\n    # return render_template('index.html', message='Hello World!')\n# standard Python test for the main program, run from command-line \nif __name__=='__main__':\n    #app.run(port=8000, debug=True)\n    app.run(port=8000)",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "peekOfCode": "def index():\n    \"\"\"Uses the index.html Jinja template (in template dir) to render a message.\"\"\"\n    return render_template('index.html', message='Hello World!')\n@app.route('/winners')\ndef winners_list():\n    \"\"\"Uses the winner_list Jinja template to render a list of winners.\"\"\"\n    return render_template('winner_list.html',\n                           heading=\"A little winners' list\",\n                           winners=winners\n                           )",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "documentation": {}
+    },
+    {
+        "label": "winners_list",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "peekOfCode": "def winners_list():\n    \"\"\"Uses the winner_list Jinja template to render a list of winners.\"\"\"\n    return render_template('winner_list.html',\n                           heading=\"A little winners' list\",\n                           winners=winners\n                           )\nif __name__ == '__main__':\n    app.run(port=8000, debug=True)",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "peekOfCode": "app = Flask(__name__)\n# Some nobel prize winners\nwinners = [\n    {'name': 'Albert Einstein', 'category': 'Physics'},\n    {'name': 'V.S. Naipaul', 'category': 'Literature'},\n    {'name': 'Dorothy Hodgkin', 'category': 'Chemistry'}\n]\n@app.route('/')\ndef index():\n    \"\"\"Uses the index.html Jinja template (in template dir) to render a message.\"\"\"",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "documentation": {}
+    },
+    {
+        "label": "winners",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "peekOfCode": "winners = [\n    {'name': 'Albert Einstein', 'category': 'Physics'},\n    {'name': 'V.S. Naipaul', 'category': 'Literature'},\n    {'name': 'Dorothy Hodgkin', 'category': 'Chemistry'}\n]\n@app.route('/')\ndef index():\n    \"\"\"Uses the index.html Jinja template (in template dir) to render a message.\"\"\"\n    return render_template('index.html', message='Hello World!')\n@app.route('/winners')",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_jinja",
+        "documentation": {}
+    },
+    {
+        "label": "JSONDateTimeEncoder",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "peekOfCode": "class JSONDateTimeEncoder(json.JSONEncoder): \n    def default(self, obj):\n        if isinstance(obj, (datetime.date, datetime.datetime)): \n            return obj.isoformat()\n        else:\n            return json.JSONEncoder.default(self, obj)\ndef dumps(obj):\n    return json.dumps(obj, cls=JSONDateTimeEncoder) \n# standard Python test for the main program, run from command-line \nif __name__=='__main__':",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "documentation": {}
+    },
+    {
+        "label": "get_country_data",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "peekOfCode": "def get_country_data():\n    \"\"\"This API end-point uses the request arguments to make an SQL query on our Nobel winners' database. So the URL http://localhost:8000/api/winners?country=United%20Kingdom&category=Physics will return all the UK Physics winners.\"\"\"\n    app.logger.info('Request args: ' + str(dict(request.args)))\n    query_dict = {}\n    for key in ['country', 'category', 'year']:\n        arg = request.args.get(key)\n        if arg:\n            query_dict[key] = arg\n    winners = list(db['winners'].find(**query_dict))\n    if winners:",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "documentation": {}
+    },
+    {
+        "label": "dumps",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "peekOfCode": "def dumps(obj):\n    return json.dumps(obj, cls=JSONDateTimeEncoder) \n# standard Python test for the main program, run from command-line \nif __name__=='__main__':\n    app.run(port=8000, debug=True)",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "peekOfCode": "app = Flask(__name__)\n# our dataset connection1\ndb = dataset.connect('sqlite:///data/nobel_winners_cleaned.db') \n# our RESTful winners URI\n@app.route('/api/winners')\ndef get_country_data():\n    \"\"\"This API end-point uses the request arguments to make an SQL query on our Nobel winners' database. So the URL http://localhost:8000/api/winners?country=United%20Kingdom&category=Physics will return all the UK Physics winners.\"\"\"\n    app.logger.info('Request args: ' + str(dict(request.args)))\n    query_dict = {}\n    for key in ['country', 'category', 'year']:",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "description": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "peekOfCode": "db = dataset.connect('sqlite:///data/nobel_winners_cleaned.db') \n# our RESTful winners URI\n@app.route('/api/winners')\ndef get_country_data():\n    \"\"\"This API end-point uses the request arguments to make an SQL query on our Nobel winners' database. So the URL http://localhost:8000/api/winners?country=United%20Kingdom&category=Physics will return all the UK Physics winners.\"\"\"\n    app.logger.info('Request args: ' + str(dict(request.args)))\n    query_dict = {}\n    for key in ['country', 'category', 'year']:\n        arg = request.args.get(key)\n        if arg:",
+        "detail": "Part_4_Delivering_the_Data.Ch.12_Delivering_the_Data.server_sql",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "class Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)\n    name = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "WinnerSchema",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "class WinnerSchema(ma.Schema):\n    class Meta:\n        model = Winner\n        fields = ('category', 'country', 'date_of_birth', 'date_of_death',\n                  'gender', 'link', 'name', 'place_of_birth', 'place_of_death', 'text', 'year', 'award_age')\nwinner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    query_string = ''",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "WinnersListPaginatedView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "class WinnersListPaginatedView(MethodView):\n    def get(self):\n        valid_filters = ('year', 'category', 'gender', 'country', 'name')\n        filters = request.args.to_dict()\n        args = {}\n        for vf in valid_filters:\n            if vf in filters:\n                args[vf] = filters.get(vf)\n        app.logger.info('Filtering with the %s fields' % (str(args)))\n        page = request.args.get(\"_page\", 1, type=int)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "WinnersListView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "class WinnersListView(MethodView):\n    def get(self):\n        valid_filters = ('year', 'category', 'gender', 'country', 'name')\n        filters = request.args.to_dict()\n        args = {}\n        for vf in valid_filters:\n            if vf in filters:\n                args[vf] = filters.get(vf)\n        app.logger.info('Filtering with the %s fields' % (str(args)))\n        all_winners = Winner.query.filter_by(**args)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "WinnerView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "class WinnerView(MethodView):\n    def get(self, winner_id):\n        winner = Winner.query.get_or_404(winner_id)\n        result = winner_schema.jsonify(winner)\n        return result\n    def patch(self, winner_id):\n        winner = Winner.query.get_or_404(winner_id)\n        valid_fields = winner_schema.fields\n        winner_data = {}\n        for vf in valid_fields:",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "make_pagination_links",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "def make_pagination_links(url, results):\n    pag = results['pagination']\n    query_string = ''\n    for k, v in results['filters'].items():\n        query_string += '&%s=%s' % (str(k), str(v))\n    page = pag['page']\n    if page > 1:\n        prev_page = url + '?_page=%d&_per-page=%d%s' % (page-1,\n                                                        pag['per_page'], query_string)\n    else:",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n# Database\n# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + \\\n#     os.path.join(basedir, '/data/nobel_winners_cleaned.db')\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\n# Init flask-restful API\n#api = Api(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\n# Init flask-restful API\n#api = Api(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "db = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\n# Init flask-restful API\n#api = Api(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "ma = Marshmallow(app)\n# Init flask-restful API\n#api = Api(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "#api",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "#api = Api(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "winner_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "winner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    query_string = ''\n    for k, v in results['filters'].items():\n        query_string += '&%s=%s' % (str(k), str(v))\n    page = pag['page']\n    if page > 1:\n        prev_page = url + '?_page=%d&_per-page=%d%s' % (page-1,",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "winners_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "peekOfCode": "winners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    query_string = ''\n    for k, v in results['filters'].items():\n        query_string += '&%s=%s' % (str(k), str(v))\n    page = pag['page']\n    if page > 1:\n        prev_page = url + '?_page=%d&_per-page=%d%s' % (page-1,\n                                                        pag['per_page'], query_string)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku.api_rest",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"CHANGE_ME!!!! (P.S. the SECRET_KEY environment variable will be used, if set, instead).\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "SECRET_KEY = \"CHANGE_ME!!!! (P.S. the SECRET_KEY environment variable will be used, if set, instead).\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"hello\",",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"hello\",\n]\nMIDDLEWARE = [",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"gettingstarted.urls\"",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "ROOT_URLCONF = \"gettingstarted.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"gettingstarted.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/2.0/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\" : \"django.db.backends.sqlite3\",\n        \"NAME\": os.path.join(BASE_DIR, \"db.sqlite3\")\n    }\n}\n# Password validation",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\" : \"django.db.backends.sqlite3\",\n        \"NAME\": os.path.join(BASE_DIR, \"db.sqlite3\")\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\"\n    },\n    {\"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\"},\n    {\"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\"},\n    {\"NAME\": \"django.contrib.auth.password_validation.NumericPasswordValidator\"},\n]\n# Internationalization\n# https://docs.djangoproject.com/en/2.0/topics/i18n/",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.0/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "peekOfCode": "STATIC_URL = \"/static/\"\ndjango_heroku.settings(locals())",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.urls",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", hello.views.index, name=\"index\"),\n    path(\"db/\", hello.views.db, name=\"db\"),\n    path(\"admin/\", admin.site.urls),\n]",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.wsgi",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.gettingstarted.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.migrations.0001_initial",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Greeting',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('when', models.DateTimeField(auto_now_add=True, verbose_name=b'date created')),",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Greeting",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.models",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.models",
+        "peekOfCode": "class Greeting(models.Model):\n    when = models.DateTimeField(\"date created\", auto_now_add=True)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.models",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleTest",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.tests",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.tests",
+        "peekOfCode": "class SimpleTest(TestCase):\n    def setUp(self):\n        # Every test needs access to the request factory.\n        self.factory = RequestFactory()\n    def test_details(self):\n        # Create an instance of a GET request.\n        request = self.factory.get(\"/\")\n        request.user = AnonymousUser()\n        # Test my_view() as if it were deployed at /customer/details\n        response = index(request)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.tests",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "peekOfCode": "def index(request):\n    # return HttpResponse('Hello from Python!')\n    return render(request, \"index.html\")\ndef db(request):\n    greeting = Greeting()\n    greeting.save()\n    greetings = Greeting.objects.all()\n    return render(request, \"db.html\", {\"greetings\": greetings})",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "peekOfCode": "def db(request):\n    greeting = Greeting()\n    greeting.save()\n    greetings = Greeting.objects.all()\n    return render(request, \"db.html\", {\"greetings\": greetings})",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.heroku-python-starter.hello.views",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "class Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)\n    name = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "WinnerSchema",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "class WinnerSchema(ma.Schema):\n    class Meta:\n        model = Winner\n        fields = ('category', 'country', 'date_of_birth', 'date_of_death',\n                  'gender', 'link', 'name', 'place_of_birth', 'place_of_death', 'text', 'year', 'award_age')\nwinner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\n@app.route('/winners/')\ndef winner_list():\n    \"\"\"This route fetches winners from the SQL database, using request arguments to form the SQL query. So '/winners/?country=Australia&category=Physics' fetches all winning Australian Physicists.\"\"\"",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "winner_list",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "def winner_list():\n    \"\"\"This route fetches winners from the SQL database, using request arguments to form the SQL query. So '/winners/?country=Australia&category=Physics' fetches all winning Australian Physicists.\"\"\"\n    valid_filters = ('year', 'category', 'gender', 'country', 'name')\n    filters = request.args.to_dict()\n    args = {name: value for name, value in filters.items()\n            if name in valid_filters}\n    # This for loop does the same job as the dict comprehension above\n    # for vf in valid_filters:\n    #     if vf in filters:\n    #         args[vf] = filters.get(vf)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "add_winner",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "def add_winner():\n    valid_fields = winner_schema.fields\n    winner_data = {name: value for name,\n                   value in request.json.items() if name in valid_fields}\n    app.logger.info(f\"Creating a winner with these fields: {winner_data}\")\n    new_winner = Winner(**winner_data)\n    db.session.add(new_winner)\n    db.session.commit()\n    return winner_schema.jsonify(new_winner)\n@app.route('/winners/<id>/')",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "winner_detail",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "def winner_detail(id):\n    winner = Winner.query.get_or_404(id)\n    result = winner_schema.jsonify(winner)\n    return result\n@app.route('/winners/<id>/', methods=['PATCH'])\ndef update_winner(id):\n    winner = Winner.query.get_or_404(id)\n    valid_fields = winner_schema.fields\n    winner_data = {name: value for name,\n                   value in request.json.items() if name in valid_fields}",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "update_winner",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "def update_winner(id):\n    winner = Winner.query.get_or_404(id)\n    valid_fields = winner_schema.fields\n    winner_data = {name: value for name,\n                   value in request.json.items() if name in valid_fields}\n    app.logger.info(f\"Updating a winner with these fields: {winner_data}\")\n    for k, v in winner_data.items():\n        setattr(winner, k, v)\n    db.session.commit()\n    return winner_schema.jsonify(winner)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "app = Flask(__name__)\nbasedir = os.path.abspath(os.path.dirname(__file__))\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "basedir",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "basedir = os.path.abspath(os.path.dirname(__file__))\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "db = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "ma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "winner_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "winner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\n@app.route('/winners/')\ndef winner_list():\n    \"\"\"This route fetches winners from the SQL database, using request arguments to form the SQL query. So '/winners/?country=Australia&category=Physics' fetches all winning Australian Physicists.\"\"\"\n    valid_filters = ('year', 'category', 'gender', 'country', 'name')\n    filters = request.args.to_dict()\n    args = {name: value for name, value in filters.items()\n            if name in valid_filters}\n    # This for loop does the same job as the dict comprehension above",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "winners_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "peekOfCode": "winners_schema = WinnerSchema(many=True)\n@app.route('/winners/')\ndef winner_list():\n    \"\"\"This route fetches winners from the SQL database, using request arguments to form the SQL query. So '/winners/?country=Australia&category=Physics' fetches all winning Australian Physicists.\"\"\"\n    valid_filters = ('year', 'category', 'gender', 'country', 'name')\n    filters = request.args.to_dict()\n    args = {name: value for name, value in filters.items()\n            if name in valid_filters}\n    # This for loop does the same job as the dict comprehension above\n    # for vf in valid_filters:",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api",
+        "documentation": {}
+    },
+    {
+        "label": "Winner",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "class Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)\n    name = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "WinnerSchema",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "class WinnerSchema(ma.Schema):\n    class Meta:\n        model = Winner\n        fields = ('category', 'country', 'date_of_birth', 'date_of_death',\n                  'gender', 'link', 'name', 'place_of_birth', 'place_of_death', 'text', 'year', 'award_age')\nwinner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    #query_string = ''",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "WinnersListPaginatedView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "class WinnersListPaginatedView(MethodView):\n    def get(self):\n        valid_filters = ('year', 'category', 'gender', 'country', 'name')\n        filters = request.args.to_dict()\n        args = {name: value for name, value in filters.items()\n                if name in valid_filters}\n        app.logger.info(f'Filtering with the {args} fields')\n        page = request.args.get(\"_page\", 1, type=int)\n        per_page = request.args.get(\"_per-page\", 20, type=int)\n        winners = Winner.query.filter_by(**args).paginate(page, per_page)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "WinnersListView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "class WinnersListView(MethodView):\n    def get(self):\n        valid_filters = ('year', 'category', 'gender', 'country', 'name')\n        filters = request.args.to_dict()\n        args = {name: value for name, value in filters.items()\n                if name in valid_filters}\n        app.logger.info(f'Filtering with the {args} fields')\n        all_winners = Winner.query.filter_by(**args)\n        result = winners_schema.jsonify(all_winners)\n        return result",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "WinnerView",
+        "kind": 6,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "class WinnerView(MethodView):\n    def get(self, winner_id):\n        winner = Winner.query.get_or_404(winner_id)\n        result = winner_schema.jsonify(winner)\n        return result\n    def patch(self, winner_id):\n        winner = Winner.query.get_or_404(winner_id)\n        valid_fields = winner_schema.fields\n        winner_data = {name: value for name,\n                       value in request.json.items() if name in valid_fields}",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "make_pagination_links",
+        "kind": 2,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "def make_pagination_links(url, results):\n    pag = results['pagination']\n    #query_string = ''\n    # for k, v in results['filters'].items():\n    #     query_string += '&%s=%s' % (str(k), str(v))\n    query_string = urllib.parse.urlencode(results['filters'])\n    page = pag['page']\n    if page > 1:\n        prev_page = '?_page%d_per-page%s%d' % (page-1,\n                                               pag['per_page'], query_string)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "app = Flask(__name__)\n# Database\napp.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/nobel_winners_cleaned_api_test.db'\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n# Init db\ndb = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "db = SQLAlchemy(app)\n# Init marshmallow\nma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "ma",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "ma = Marshmallow(app)\nclass Winner(db.Model):\n    __tablename__ = 'winners'\n    id = db.Column(db.Integer, primary_key=True)\n    category = db.Column(db.String)\n    country = db.Column(db.String)\n    date_of_birth = db.Column(db.String)\n    date_of_death = db.Column(db.String)\n    gender = db.Column(db.String)\n    link = db.Column(db.String)",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "winner_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "winner_schema = WinnerSchema()\nwinners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    #query_string = ''\n    # for k, v in results['filters'].items():\n    #     query_string += '&%s=%s' % (str(k), str(v))\n    query_string = urllib.parse.urlencode(results['filters'])\n    page = pag['page']\n    if page > 1:",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    },
+    {
+        "label": "winners_schema",
+        "kind": 5,
+        "importPath": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "description": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "peekOfCode": "winners_schema = WinnerSchema(many=True)\ndef make_pagination_links(url, results):\n    pag = results['pagination']\n    #query_string = ''\n    # for k, v in results['filters'].items():\n    #     query_string += '&%s=%s' % (str(k), str(v))\n    query_string = urllib.parse.urlencode(results['filters'])\n    page = pag['page']\n    if page > 1:\n        prev_page = '?_page%d_per-page%s%d' % (page-1,",
+        "detail": "Part_4_Delivering_the_Data.Ch.13_Restful_API.api_restful",
+        "documentation": {}
+    }
+]
